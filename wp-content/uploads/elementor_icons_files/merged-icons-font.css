@@ -8,12 +8,12 @@ display: inline-block;
      }
 @font-face {
  font-family: 'icons';
-  src: url('fontello-240eb632.zip/fontello-240eb632/font/icons.eot?1180509060');
-  src: url('fontello-240eb632.zip/fontello-240eb632/font/icons.eot?1180509060#iefix') format('embedded-opentype'),
-       url('fontello-240eb632.zip/fontello-240eb632/font/icons.woff2?1180509060') format('woff2'),
-       url('fontello-240eb632.zip/fontello-240eb632/font/icons.woff?1180509060') format('woff'),
-       url('fontello-240eb632.zip/fontello-240eb632/font/icons.ttf?1180509060') format('truetype'),
-       url('fontello-240eb632.zip/fontello-240eb632/font/icons.svg?1180509060#icons') format('svg');
+  src: url('fontello-240eb632.zip/fontello-240eb632/font/icons.eot?1923379184');
+  src: url('fontello-240eb632.zip/fontello-240eb632/font/icons.eot?1923379184#iefix') format('embedded-opentype'),
+       url('fontello-240eb632.zip/fontello-240eb632/font/icons.woff2?1923379184') format('woff2'),
+       url('fontello-240eb632.zip/fontello-240eb632/font/icons.woff?1923379184') format('woff'),
+       url('fontello-240eb632.zip/fontello-240eb632/font/icons.ttf?1923379184') format('truetype'),
+       url('fontello-240eb632.zip/fontello-240eb632/font/icons.svg?1923379184#icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,12 +25,12 @@ display: inline-block;
 
 @font-face {
  font-family: 'and2';
-  src: url('fontello-526ca1a2.zip/fontello-526ca1a2/font/and2.eot?293482268');
-  src: url('fontello-526ca1a2.zip/fontello-526ca1a2/font/and2.eot?293482268#iefix') format('embedded-opentype'),
-       url('fontello-526ca1a2.zip/fontello-526ca1a2/font/and2.woff2?293482268') format('woff2'),
-       url('fontello-526ca1a2.zip/fontello-526ca1a2/font/and2.woff?293482268') format('woff'),
-       url('fontello-526ca1a2.zip/fontello-526ca1a2/font/and2.ttf?293482268') format('truetype'),
-       url('fontello-526ca1a2.zip/fontello-526ca1a2/font/and2.svg?293482268#and2') format('svg');
+  src: url('fontello-526ca1a2.zip/fontello-526ca1a2/font/and2.eot?1227735075');
+  src: url('fontello-526ca1a2.zip/fontello-526ca1a2/font/and2.eot?1227735075#iefix') format('embedded-opentype'),
+       url('fontello-526ca1a2.zip/fontello-526ca1a2/font/and2.woff2?1227735075') format('woff2'),
+       url('fontello-526ca1a2.zip/fontello-526ca1a2/font/and2.woff?1227735075') format('woff'),
+       url('fontello-526ca1a2.zip/fontello-526ca1a2/font/and2.ttf?1227735075') format('truetype'),
+       url('fontello-526ca1a2.zip/fontello-526ca1a2/font/and2.svg?1227735075#and2') format('svg');
   font-weight: normal;
   font-style: normal;
 }
